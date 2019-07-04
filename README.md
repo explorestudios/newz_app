@@ -1,1 +1,0 @@
-# newz_app
